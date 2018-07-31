@@ -16,3 +16,5 @@ Por tanto, se pretende con esto llevar un control de cambios entre versiones.
 * [12/05/2018] Reorganización de carpetas [[Clean Update #2]](https://github.com/opencitydata/turismo-alojamiento/pull/2)
 * [18/05/2018] Generada la documentación como estaba publicada y reorganización de carpetas [[Actualización de documentación]](https://github.com/opencitydata/turismo-alojamiento/commit/0384b9e8c13c4afc91227926c852a0ae1df580a2)
 
+
+Este vocabulario está siendo utilizado en el contexto de la actuación sobre datos abiertos del proyecto "Plataforma de Gobierno Abierto, Colaborativa e Interoperable" (http://datos.gob.es/es/noticia/plataforma-de-gobierno-abierto-colaborativa-e-interoperable). Dentro de los objetivos específicos de este proyecto no se encuentra el desarrollo, actualización o validación de este vocabulario, aunque no se descarta que puedan realizarse cambios cuando los conjuntos de datos correspondientes tengan que ser expuestos por medio de la API de datos abiertos que se está desarrollando en el proyecto.
