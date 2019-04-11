@@ -1,7 +1,7 @@
 # turismo-alojamiento
 <p>Este repositorio contiene el material relacionado con el vocabulario que permite representar datos sobre alojamientos (hoteles, hostales, moteles, albergues, etc.) en España, que se identifica (y publica) en la siguiente URI: 
   
-http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento/0.1/
+http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento
   
 <p>Se trata de un vocabulario sencillo, que se compone de una única clase, Alojamiento, que representa cualquier tipo de alojamiento, y propiedades básicas como el número de habitaciones y número de camas, así como la categoría del alojamiento. </p> 
 
