@@ -65,6 +65,7 @@ Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan
 - geoNames
 - cruzar</dc:description>
         <dc:creator>Víctor Morlán (Ayuntamiento de Zaragoza)</dc:creator>
+        <dc:creator>María Jesús Fernández Ruiz (Ayuntamiento de Zaragoza)</dc:creator>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
         <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento-content/0.1/"/>
         <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento.owl"/>
