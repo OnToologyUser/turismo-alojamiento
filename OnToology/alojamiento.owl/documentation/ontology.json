@@ -19,12 +19,12 @@
 }, {
   "@id" : "_:genid3",
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@value" : "HTML"
+    "@value" : "RDF"
   } ]
 }, {
   "@id" : "_:genid4",
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@value" : "RDF"
+    "@value" : "HTML"
   } ]
 }, {
   "@id" : "http://creativecommons.org/ns#license",
@@ -126,7 +126,6 @@
     "@value" : "Víctor Morlán (Ayuntamiento de Zaragoza)"
   } ],
   "http://purl.org/dc/elements/1.1/date" : [ {
-    "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
     "@value" : "2014-09-15"
   } ],
   "http://purl.org/dc/elements/1.1/description" : [ {
@@ -147,15 +146,14 @@
     "@id" : "http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento.owl"
   } ],
   "http://purl.org/dc/terms/issued" : [ {
-    "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
     "@value" : "2014-09-15"
   } ],
   "http://purl.org/vocab/vann/preferredNamespaceUri" : [ {
     "@id" : "http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento#"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
-    "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
-    "@value" : "Vocabulario para la representación de datos sobre alojamientos en España\nEste vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios\nReutiliza términos de varios vocabularios y modelos que actualmente se utilizan para propósitos similares (y por tanto se irá actualizando de acuerdo con la evolución de estos vocabularios), incluyendo:\n- schema.org\n- geoNames\n- cruzar\n\nEsta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suficiente sobre los términos que se incluyen en ella. "
+    "@language" : "es",
+    "@value" : "Vocabulario para la representación de datos sobre alojamientos en España\nEste vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios\nReutiliza términos de varios vocabularios y modelos que actualmente se utilizan para propósitos similares (y por tanto se irá actualizando de acuerdo con la evolución de estos vocabularios), incluyendo:\n- schema.org\n- geoNames\n- cruzar\n\nEsta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suficiente sobre los términos que se incluyen en ella."
   } ],
   "http://www.w3.org/2002/07/owl#versionIRI" : [ {
     "@id" : "http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento/0.1"
