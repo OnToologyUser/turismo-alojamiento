@@ -17,7 +17,7 @@
         <dc:creator>Miguel Angel García Delgado (Ontology Engineering Group - Universidad Politécnica de Madrid)</dc:creator>
         <dc:creator>Oscar Corcho (Ontology Engineering Group - Universidad Politécnica de Madrid, LocaliData)</dc:creator>
         <dc:creator>Víctor Morlán (Ayuntamiento de Zaragoza)</dc:creator>
-        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-15</dc:date>
+        <dc:date>2014-09-15</dc:date>
         <dc:description>Vocabulario para la representación de datos sobre alojamientos en España
 Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios
 Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan para propósitos similares (y por tanto se irá actualizando de acuerdo con la evolución de estos vocabularios), incluyendo:
@@ -28,16 +28,16 @@ Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan
         <dc:rights>Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:rights>
         <dc:title xml:lang="es">Vocabulario para la representación de datos sobre alojamiento</dc:title>
         <terms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento.owl"/>
-        <terms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-09-15</terms:issued>
+        <terms:issued>2014-09-15</terms:issued>
         <vann:preferredNamespaceUri rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento#"/>
-        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">Vocabulario para la representación de datos sobre alojamientos en España
+        <rdfs:comment xml:lang="es">Vocabulario para la representación de datos sobre alojamientos en España
 Este vocabulario ha sido desarrollado en el contexto del grupo sobre Turismo, Cultura y Ocio, y Comercio de AENOR. El estado del vocabulario es todavía muy inicial y sufrirá cambios
 Reutiliza términos de varios vocabularios y modelos que actualmente se utilizan para propósitos similares (y por tanto se irá actualizando de acuerdo con la evolución de estos vocabularios), incluyendo:
 - schema.org
 - geoNames
 - cruzar
 
-Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suficiente sobre los términos que se incluyen en ella. </rdfs:comment>
+Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suficiente sobre los términos que se incluyen en ella.</rdfs:comment>
         <owl:versionInfo xml:lang="es">Esta ontología surge de la necesidad de representar información detallada sobre alojamientos en una ciudad</owl:versionInfo>
     </owl:Ontology>
     
@@ -424,10 +424,10 @@ Esta ontología sufrirá cambios continuados hasta que se consiga un acuerdo suf
         <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
     </owl:NamedIndividual>
     <rdf:Description>
-        <rdfs:label>HTML</rdfs:label>
+        <rdfs:label>RDF</rdfs:label>
     </rdf:Description>
     <rdf:Description>
-        <rdfs:label>RDF</rdfs:label>
+        <rdfs:label>HTML</rdfs:label>
     </rdf:Description>
 </rdf:RDF>
 
