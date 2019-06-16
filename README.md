@@ -15,6 +15,7 @@ Por tanto, se pretende con esto llevar un control de cambios entre versiones.
 * [26/04/2018] Registro del repositorio en OnToology para la generación de documentación.
 * [12/05/2018] Reorganización de carpetas [[Clean Update #2]](https://github.com/opencitydata/turismo-alojamiento/pull/2)
 * [18/05/2018] Generada la documentación como estaba publicada y reorganización de carpetas [[Actualización de documentación]](https://github.com/opencitydata/turismo-alojamiento/commit/0384b9e8c13c4afc91227926c852a0ae1df580a2)
+* [16/06/2019] Regeneración de la documentación con todos los metadatos del vocabulario ya retocados (https://github.com/opencitydata/turismo-alojamiento/commit/a9320ff05a5c62383d866d0f97e847324fc82395)
 
 
 Este vocabulario está siendo utilizado en el contexto de la actuación sobre datos abiertos del proyecto "Plataforma de Gobierno Abierto, Colaborativa e Interoperable" (http://www.red.es/redes/es/que-hacemos/ciudades-inteligentes/proyectos-en-ciudades). Dentro de los objetivos específicos de este proyecto no se encuentra el desarrollo, actualización o validación de este vocabulario, aunque no se descarta que puedan realizarse cambios cuando los conjuntos de datos correspondientes tengan que ser expuestos por medio de la API de datos abiertos que se está desarrollando en el proyecto. Algunas de estas modificaciones están siendo financiadas por el proyecto europeo H2020 StandICT.eu.
