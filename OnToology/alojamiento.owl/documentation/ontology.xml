@@ -14,7 +14,7 @@
         <owl:versionIRI rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento/0.1"/>
         <ns:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
         <dc:creator>María Jesús Fernández Ruiz (Ayuntamiento de Zaragoza)</dc:creator>
-        <dc:creator>Miguel Angel García Delgado (Ontology Engineering Group - Universidad Politécnica de Madrid)</dc:creator>
+        <dc:creator>Miguel Angel García  Delgado (Ontology Engineering Group - Universidad Politécnica de Madrid)</dc:creator>
         <dc:creator>Oscar Corcho (Ontology Engineering Group - Universidad Politécnica de Madrid, LocaliData)</dc:creator>
         <dc:creator>Víctor Morlán (Ayuntamiento de Zaragoza)</dc:creator>
         <dc:date>2014-09-15</dc:date>

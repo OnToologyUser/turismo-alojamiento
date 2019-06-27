@@ -2,7 +2,7 @@
 <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento> <http://www.w3.org/2002/07/owl#versionIRI> <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento/0.1> .
 <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento> <http://creativecommons.org/ns#license> <http://creativecommons.org/licenses/by/4.0/> .
 <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento> <http://purl.org/dc/elements/1.1/creator> "María Jesús Fernández Ruiz (Ayuntamiento de Zaragoza)" .
-<http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento> <http://purl.org/dc/elements/1.1/creator> "Miguel Angel García Delgado (Ontology Engineering Group - Universidad Politécnica de Madrid)" .
+<http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento> <http://purl.org/dc/elements/1.1/creator> "Miguel Angel García  Delgado (Ontology Engineering Group - Universidad Politécnica de Madrid)" .
 <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento> <http://purl.org/dc/elements/1.1/creator> "Oscar Corcho (Ontology Engineering Group - Universidad Politécnica de Madrid, LocaliData)" .
 <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento> <http://purl.org/dc/elements/1.1/creator> "Víctor Morlán (Ayuntamiento de Zaragoza)" .
 <http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento> <http://purl.org/dc/elements/1.1/date> "2014-09-15" .
