@@ -27,7 +27,7 @@
         <dcterms:issued>2014-09-15</dcterms:issued>
         <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
         <dcterms:hasFormat rdf:resource="http://vocab.linkeddata.es/datosabiertos/def/turismo/alojamiento-content/0.1/"/>
-        <dc:creator>Miguel Angel García Delgado (Ontology Engineering Group - Universidad Politécnica de Madrid)</dc:creator>
+        <dc:creator>Miguel Angel García  Delgado (Ontology Engineering Group - Universidad Politécnica de Madrid)</dc:creator>
         <dc:title xml:lang="es">Vocabulario para la representación de datos sobre alojamiento</dc:title>
         <owl:versionInfo xml:lang="es">Esta ontología surge de la necesidad de representar información detallada sobre alojamientos en una ciudad</owl:versionInfo>
         <rdfs:comment xml:lang="es">Vocabulario para la representación de datos sobre alojamientos en España
